@@ -18,14 +18,14 @@ Currently, I’m looking for exciting internship or entry-level opportunities wh
 - **Frontend:** HTML, CSS, Bootstrap, Thymeleaf  
 - **Backend:** Spring Boot, Hibernate (ORM), REST APIs  
 - **Database:** MySQL, PostgreSQL (Basics)  
-- **Tools:** Git, GitHub, GitLab (Familiar), Docker (Basics), JUnit (Basics)  
+- **Tools:** Git, GitHub, Docker (Basics), JUnit (Basics)  
 - **Other:** Strong debugging, problem-solving, and form validation techniques
 
 ---
 
 ## 📂 Projects
 
-### 🔹 [Billing Management System](https://billingapplication-production.up.railway.app/)
+### 🔹 [Billing Management System]
 - Built a full-stack application using Spring Boot, Thymeleaf, and MySQL.
 - Enabled dynamic invoice creation, customer/product management, and total calculation.
 - Implemented robust backend logic and a responsive frontend design.
