@@ -26,6 +26,7 @@ Currently, I’m looking for exciting internship or entry-level opportunities wh
 ## 📂 Projects
 
 ### 🔹 [Billing Management System]
+https://billingapplication-production-0e63.up.railway.app/
 - Built a full-stack application using Spring Boot, Thymeleaf, and MySQL.
 - Enabled dynamic invoice creation, customer/product management, and total calculation.
 - Implemented robust backend logic and a responsive frontend design.
