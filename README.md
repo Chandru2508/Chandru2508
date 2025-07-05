@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a recent graduate and certified Full Stack Java Developer trained in backend development with **Java**, **Spring Boot**, **Hibernate**, and frontend development using **HTML**, **CSS**, **JavaScript**, and **Thymeleaf**. I enjoy creating clean, responsive user interfaces and powerful backend systems.
+I'm a recent graduate and certified Full Stack Java Developer trained in backend development with **Java**, **Spring Boot**, **Hibernate**, and frontend development using **HTML**, **CSS**, **JavaScript**, **React.js** and **Thymeleaf**. I enjoy creating clean, responsive user interfaces and powerful backend systems.
 
 Currently, I’m looking for exciting internship or entry-level opportunities where I can apply my skills, grow as a developer, and contribute to impactful projects.
 
@@ -14,11 +14,10 @@ Currently, I’m looking for exciting internship or entry-level opportunities wh
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Java, JavaScript  
-- **Frontend:** HTML, CSS, Bootstrap, Thymeleaf  
-- **Backend:** Spring Boot, Hibernate (ORM), REST APIs  
+- **Frontend:** HTML, CSS, Bootstrap, Javascript, React js, Thymeleaf  
+- **Backend:** Java, Spring MVC, Spring JPA, Spring Security, JWT Authentication and REST APIs  
 - **Database:** MySQL, PostgreSQL (Basics)  
-- **Tools:** Git, GitHub, Docker (Basics), JUnit (Basics)  
+- **Tools:** Git, GitHub, Docker (Basics), JUnit (Basics), Postman (Basics)
 - **Other:** Strong debugging, problem-solving, and form validation techniques
 
 ---
@@ -39,7 +38,8 @@ Currently, I’m looking for exciting internship or entry-level opportunities wh
 
 ## 📚 Certifications
 
-- 🔸 Java Full Stack Development – Code Infinite Institute, Coimbatore  
+- 🔸 Java Full Stack Development – Code Infinite Institute, Coimbatore
+- 🔸React Course – Internshala Trainings 
 - 🔸 Optimizing MySQL Performance – Koenig Solutions  
 - 🔸 Docker & Kubernetes Fundamentals – Scaler Academy
 
@@ -57,6 +57,7 @@ Currently, I’m looking for exciting internship or entry-level opportunities wh
 - 📧 Email: hemachandru1220@gmail.com  
 - 📱 Phone: +91 9894116119  
 - 🔗 [LinkedIn](https://linkedin.com/in/hemachandran2728)  
+- 🔗 [Portfolio] (https://hemachandran-s.web.app/)  
 ---
 
 _Thanks for visiting! Let's build something amazing together._
