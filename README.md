@@ -57,7 +57,7 @@ Currently, I’m looking for exciting internship or entry-level opportunities wh
 - 📧 Email: hemachandru1220@gmail.com  
 - 📱 Phone: +91 9894116119  
 - 🔗 [LinkedIn](https://linkedin.com/in/hemachandran2728)  
-- 🔗 [Portfolio] (https://hemachandran-s.web.app/)  
+- 🔗 [Portfolio](https://hemachandran-s.web.app/)  
 ---
 
 _Thanks for visiting! Let's build something amazing together._
